@@ -1,0 +1,417 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Payment gateway for Evocabank\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-07-10 12:38+0000\n"
+"PO-Revision-Date: 2024-03-23 16:20+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.2\n"
+"X-Domain: payment-gateway-for-evocabank"
+
+#. URI of the plugin
+msgid "#"
+msgstr "#"
+
+#: includes/main.php:423
+msgid ")"
+msgstr ")"
+
+#: includes/main.php:710
+msgid "Activate shopping cart function"
+msgstr ""
+"Activate shopping cart function\n"
+
+#: includes/main.php:63 includes/main.php:86 includes/main.php:658
+msgid "Add a credit card"
+msgstr "Add a credit card"
+
+#: includes/main.php:900
+msgid ""
+"Before using the plugin, please contact the bank to receive respective "
+"regulations."
+msgstr ""
+"Before using the plugin, please contact the bank to receive respective "
+"regulations.\n"
+
+#: includes/main.php:686
+msgid "Binding Password"
+msgstr ""
+"Binding Password\n"
+
+#: includes/main.php:682
+msgid "Binding User Name"
+msgstr ""
+"Binding User Name\n"
+
+#: includes/main.php:709
+msgid "Cart totals"
+msgstr ""
+"Cart totals\n"
+
+#: includes/main.php:805 includes/main.php:1065
+msgid "Connection error."
+msgstr "Connection error."
+
+#: includes/main.php:937
+msgid ""
+"Contact us at the specified phone number or e-mail address for "
+"authentication."
+msgstr ""
+"Contact us at the specified phone number or e-mail address for "
+"authentication."
+
+#: includes/main.php:614
+msgid "Debug Log"
+msgstr "Debug Log"
+
+#: includes/main.php:575
+msgid "Description"
+msgstr "Description"
+
+#: includes/main.php:649
+msgid "Enable \"Save Card\" function"
+msgstr "Enable card binding option"
+
+#: includes/main.php:616
+msgid "Enable debug mode"
+msgstr "Enable debug mode"
+
+#: includes/main.php:607
+msgid "Enable Multi-Currency"
+msgstr "Enable Multi-Currency"
+
+#: includes/main.php:640
+msgid "Enable payment confirmation function"
+msgstr "Enable payment confirmation function"
+
+#: includes/main.php:561
+msgid "Enable payment gateway"
+msgstr "Enable payment gateway"
+
+#: includes/main.php:652
+msgid "Enable Save Card"
+msgstr ""
+"Enable Save Card\n"
+
+#: includes/main.php:622
+msgid "Enable test Mode"
+msgstr "Enable test Mode"
+
+#: includes/main.php:560
+msgid "Enable/Disable"
+msgstr "Enable/Disable"
+
+#: includes/main.php:635 includes/main.php:688
+msgid "Enter password"
+msgstr ""
+"Enter password\n"
+
+#: includes/main.php:897
+msgid "EVOCA BANK"
+msgstr "EVOCA BANK"
+
+#: includes/main.php:946
+msgid "Example Evocabankgayudcsu14"
+msgstr ""
+"Example Evocabankgayudcsu14\n"
+
+#: includes/main.php:542
+msgid "here"
+msgstr "here"
+
+#: includes/main.php:590
+msgid "Here interface language of bank purchase can be regulated"
+msgstr "Here interface language of bank purchase can be regulated"
+
+#: includes/main.php:555
+msgid "Here you can change the language of the plugin control panel."
+msgstr "Here you can change the language of the plugin control panel."
+
+#: includes/main.php:601
+msgid "Here you can select the status of confirmed payment orders."
+msgstr ""
+"Here you can select the status of confirmed payment orders.\n"
+
+#. Author of the plugin
+msgid "HK Digital Agency LLC"
+msgstr "HK Digital Agency LLC"
+
+#. Author URI of the plugin
+msgid "https://hkdigital.am"
+msgstr "https://hkdigital.am"
+
+#: includes/main.php:957
+msgid "I have read and agree to the Plugin"
+msgstr ""
+"I have read and agree to the Plugin\n"
+
+#: includes/main.php:934
+msgid "IDENTIFICATION"
+msgstr "IDENTIFICATION"
+
+#: includes/main.php:941
+msgid "Identification password"
+msgstr ""
+"Identification password\n"
+
+#: includes/main.php:583
+msgid "Language"
+msgstr "Language"
+
+#: includes/main.php:717
+msgid "Links"
+msgstr "Links"
+
+#: includes/main.php:691
+msgid "Live Settings"
+msgstr "Live Settings"
+
+#: includes/main.php:537
+msgid ""
+"Log HKD ARCA Gateway events, inside <code>woocommerce/logs/evocabank."
+"txt</code>"
+msgstr ""
+"Log HKD ARCA Gateway events, inside <code>woocommerce/logs/evocabank."
+"txt</code>\n"
+
+#: includes/main.php:606
+msgid "Multi-Currency"
+msgstr "Multi-Currency"
+
+#: includes/main.php:655
+msgid "New binding card text"
+msgstr "New binding card text"
+
+#: includes/main.php:437
+msgid "No Saved Cards"
+msgstr "No Saved Cards"
+
+#: includes/main.php:896
+#| msgid "Online payment gateway"
+msgid "ONLINE PAYMENT GATEWAY"
+msgstr "Online payment gateway"
+
+#: includes/main.php:700
+msgid "Password"
+msgstr "Password"
+
+#: includes/main.php:61 includes/main.php:570
+msgid "Pay via credit card"
+msgstr "Pay via credit card"
+
+#. Description of the plugin
+#| msgid ""
+#| "Pay with Evoca Bank payment system. Please note that the payment will be "
+#| "made in Armenian Dram."
+msgid ""
+"Pay with  Evocabank payment system. Please note that the payment will be "
+"made in Armenian Dram."
+msgstr ""
+"Pay with Evocabank payment system. Please note that the payment will be made "
+"in Armenian Dram."
+
+#. Name of the plugin
+#| msgid "Payment Gateway for Evoca Bank"
+msgid "Payment gateway for Evocabank"
+msgstr "Payment gateway for Evocabank"
+
+#: includes/main.php:974
+msgid "Payment system"
+msgstr ""
+"Payment system\n"
+
+#: includes/main.php:1167 includes/main.php:1200 includes/main.php:1207
+msgid "Please try again later."
+msgstr "Please try again later."
+
+#: includes/main.php:775 includes/main.php:798
+msgid "Please try again."
+msgstr "Please try again."
+
+#: includes/main.php:548 includes/main.php:920
+msgid "Plugin language"
+msgstr "Plugin language"
+
+#: includes/main.php:578
+msgid ""
+"Purchase by  credit card. Please, note that purchase is going to be made by "
+"Armenian drams. "
+msgstr ""
+"Purchase by credit card. Please, note that purchase is going to be made by "
+"Armenian drams."
+
+#: includes/main.php:62
+msgid ""
+"Purchase by credit card. Please, note that purchase is going to be made by "
+"Armenian drams. "
+msgstr ""
+"Purchase by credit card. Please, note that purchase is going to be made by "
+"Armenian drams."
+
+#: includes/main.php:64 includes/main.php:87 includes/main.php:667
+msgid "Purchase safely by using your saved credit card"
+msgstr "Purchase safely by using your saved credit card"
+
+#: includes/main.php:647
+msgid "Save Card Admin"
+msgstr "Enable card binding option"
+
+#: includes/main.php:664
+msgid "Save card description text"
+msgstr "Save card description text"
+
+#: wc-payment-gateway-for-evocabank.php:65
+msgid "Settings"
+msgstr "Settings"
+
+#: includes/main.php:595
+msgid "Success Order Status"
+msgstr ""
+"Success Order Status\n"
+
+#: includes/main.php:959
+msgid "Terms & Conditions"
+msgstr ""
+"Terms & Conditions\n"
+
+#: includes/main.php:621
+msgid "Test mode"
+msgstr "Test mode"
+
+#: includes/main.php:633
+msgid "Test Password"
+msgstr "Test Password"
+
+#: includes/main.php:629
+msgid "Test User Name"
+msgstr "Test User Name"
+
+#: includes/main.php:609
+msgid ""
+"This action, if permitted by the bank, enables to purchase by multiple "
+"currencies"
+msgstr ""
+"This action, if permitted by the bank, enables to purchase by multiple "
+"currencies"
+
+#: includes/main.php:712
+msgid ""
+"This feature ensures that the contents of the shopping cart are available at "
+"the time of order registration if the site buyer decides to change the "
+"payment method."
+msgstr ""
+"This feature ensures that the contents of the shopping cart are available at "
+"the time of order registration if the site buyer decides to change the "
+"payment method."
+
+#: includes/main.php:567
+msgid "Title"
+msgstr "Title"
+
+#: includes/main.php:624
+msgid ""
+"To test the testing version login and password provided by the bank should "
+"be typed"
+msgstr ""
+"To test the testing version login and password provided by the bank should "
+"be typed"
+
+#: includes/main.php:1059
+msgid "Token not valid"
+msgstr "Token not valid"
+
+#: includes/main.php:639
+msgid "Two-stage Payment"
+msgstr "Two-stage Payment"
+
+#: includes/main.php:642
+msgid ""
+"two-stage: when the payment amount is first blocked on the buyer’s account "
+"and then at the second stage is withdrawn from the account"
+msgstr ""
+"two-stage: when the payment amount is first blocked on the buyer’s account "
+"and then at the second stage is withdrawn from the account"
+
+#: includes/main.php:580
+msgid "Type the description"
+msgstr "Type the description"
+
+#: includes/main.php:702
+msgid "Type the password"
+msgstr "Type the password"
+
+#: includes/main.php:656
+#| msgid "Type the save card header text"
+msgid "Type the save card checkbox text"
+msgstr "Type the save card header text"
+
+#: includes/main.php:665
+#| msgid "Type the save card button text"
+msgid "Type the save card description text"
+msgstr "Type the save card button text"
+
+#: includes/main.php:572
+msgid "Type the title"
+msgstr "Type the title"
+
+#: includes/main.php:674
+#| msgid "Enter use new card text"
+msgid "Type the use new card text"
+msgstr "Type the use new card text"
+
+#: includes/main.php:697
+msgid "Type the user name"
+msgstr "Type the user name"
+
+#: includes/main.php:65 includes/main.php:88 includes/main.php:676
+msgid "Use a new credit card"
+msgstr "Use a new credit card"
+
+#: includes/main.php:673
+msgid "Use new card text"
+msgstr "Use new card text"
+
+#: includes/main.php:705
+msgid "Useful functions"
+msgstr ""
+"Useful functions\n"
+
+#: includes/main.php:577
+msgid ""
+"User (website visitor) sees this description on order registry page in bank "
+"purchase option."
+msgstr ""
+"User (website visitor) sees this description on order registry page in bank "
+"purchase option."
+
+#: includes/main.php:569
+msgid ""
+"User (website visitor) sees this title on order registry page as a title for "
+"purchase option."
+msgstr ""
+"User (website visitor) sees this title on order registry page as a title for "
+"purchase option."
+
+#: includes/main.php:695
+msgid "User Name"
+msgstr "User Name"
+
+#: includes/main.php:418
+msgid "You can Delete Cards"
+msgstr "You can Delete Cards"
+
+#: includes/main.php:1028
+#| msgid "you must fill token"
+msgid "You must fill token"
+msgstr "You must fill token"
+
+#: includes/main.php:417
+msgid "Your card list"
+msgstr "Your card list"

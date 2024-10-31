@@ -1,0 +1,405 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-05-11 19:45+0000\n"
+"PO-Revision-Date: 2024-03-23 16:20+0000\n"
+"Last-Translator: \n"
+"Language-Team: Armenian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hy\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.5.2; wp-5.7.2"
+
+#. URI of the plugin
+msgid "#"
+msgstr "#"
+
+#: includes/main.php:423
+msgid ")"
+msgstr ")"
+
+#: includes/main.php:710
+msgid "Activate shopping cart function"
+msgstr "Ակտիվացնել զամբյուղի պարունակության գործառույթը"
+
+#: includes/main.php:63 includes/main.php:86 includes/main.php:658
+msgid "Add a credit card"
+msgstr "Կցագրել բանկային քարտը"
+
+#: includes/main.php:900
+msgid ""
+"Before using the plugin, please contact the bank to receive respective "
+"regulations."
+msgstr ""
+"Հավելվածը օգտագործելուց առաջ անհրաժեշտ է կապ հաստատել բանկի հետ համապատասխան "
+"կարգավորումները ստանալու համար։"
+
+#: includes/main.php:686
+msgid "Binding Password"
+msgstr "Binding Գաղտնաբառ"
+
+#: includes/main.php:682
+msgid "Binding User Name"
+msgstr "Binding Մուտքանուն"
+
+#: includes/main.php:709
+msgid "Cart totals"
+msgstr "Զամբյուղի պարունակություն"
+
+#: includes/main.php:805 includes/main.php:1065
+msgid "Connection error."
+msgstr "Connection error."
+
+#: includes/main.php:937
+msgid ""
+"Contact us at the specified phone number or e-mail address for "
+"authentication."
+msgstr ""
+"Նույնականացում անցնելու համար կապ հաստատեք մեզ հետ նշված հեռախոսահամարով կամ "
+"էլ-հասցեով:"
+
+#: includes/main.php:614
+msgid "Debug Log"
+msgstr "Կարգավիճակի մատյան"
+
+#: includes/main.php:575
+msgid "Description"
+msgstr "Նկարագրություն"
+
+#: includes/main.php:649
+msgid "Enable \"Save Card\" function"
+msgstr "Միացնել քարտի պահպանման հնարավորությունը"
+
+#: includes/main.php:616
+msgid "Enable debug mode"
+msgstr "Միացնել մատյանը"
+
+#: includes/main.php:607
+msgid "Enable Multi-Currency"
+msgstr "Միացնել բազմարժույթի հնարավորությունը"
+
+#: includes/main.php:640
+msgid "Enable payment confirmation function"
+msgstr "Միացնել վճարման հաստատաման գործառույթը"
+
+#: includes/main.php:561
+msgid "Enable payment gateway"
+msgstr "Միացնել վճարային համակարգը"
+
+#: includes/main.php:652
+msgid "Enable Save Card"
+msgstr "Միացնել քարտի պահպանման հնարավորությունը"
+
+#: includes/main.php:622
+#| msgid "Enable Test Mode"
+msgid "Enable test Mode"
+msgstr "Միացնել թեստային տարբերակը"
+
+#: includes/main.php:560
+msgid "Enable/Disable"
+msgstr "Միացնել/անջատել"
+
+#: includes/main.php:635 includes/main.php:688
+msgid "Enter password"
+msgstr "Մուտքագրել գաղտնաբառը"
+
+#: includes/main.php:897
+msgid "EVOCA BANK"
+msgstr "EVOCA BANK"
+
+#: includes/main.php:946
+msgid "Example Evocabankgayudcsu14"
+msgstr "Օրինակ Evocabankgayudcsu14"
+
+#: includes/main.php:542
+msgid "here"
+msgstr "այստեղ"
+
+#: includes/main.php:590
+msgid "Here interface language of bank purchase can be regulated"
+msgstr "Այստեղ կարելի է կարգաբերել բանկային վճարման էջի ինտերֆեյսի լեզուն"
+
+#: includes/main.php:555
+msgid "Here you can change the language of the plugin control panel."
+msgstr "Այստեղ կարող եք փոփոխել հավելման կառավարման վահանակի լեզուն։"
+
+#: includes/main.php:601
+msgid "Here you can select the status of confirmed payment orders."
+msgstr ""
+"Այստեղ կարող եք ընտրել վճարումը հաստատված պատվերների կարգավիճակը։ Խնդրում "
+"ենք հաշվի առնել որ այս գործառույթը ավտոմատ կերպով դադարում է գործել "
+"\"Վճարումը հաստատումով\" գործառույթի դեպքում։"
+
+#. Author of the plugin
+msgid "HK Digital Agency LLC"
+msgstr "HK Digital Agency LLC"
+
+#. Author URI of the plugin
+msgid "https://hkdigital.am"
+msgstr "https://hkdigital.am"
+
+#: includes/main.php:957
+msgid "I have read and agree to the Plugin"
+msgstr "Ես կարդացել եմ և համաձայն եմ Պլագինի "
+
+#: includes/main.php:934
+msgid "IDENTIFICATION"
+msgstr "ՆՈՒՅՆԱԿԱՆԱՑՈՒՄ"
+
+#: includes/main.php:941
+msgid "Identification password"
+msgstr "Նույնականացման գաղտնաբառ"
+
+#: includes/main.php:583
+msgid "Language"
+msgstr "Լեզու"
+
+#: includes/main.php:717
+msgid "Links"
+msgstr "Հղումներ"
+
+#: includes/main.php:691
+msgid "Live Settings"
+msgstr "Իրական կարգավորումներ "
+
+#: includes/main.php:537
+msgid ""
+"Log HKD ARCA Gateway events, inside <code>woocommerce/logs/evocabank."
+"txt</code>"
+msgstr ""
+"Սխալների գրանցմանը կարող եք հետևել <code>woocommerce/logs/evocabank."
+"txt</code>"
+
+#: includes/main.php:606
+msgid "Multi-Currency"
+msgstr "Բազմարժույթ"
+
+#: includes/main.php:655
+msgid "New binding card text"
+msgstr "Կցագրման դաշտի անվանում"
+
+#: includes/main.php:437
+msgid "No Saved Cards"
+msgstr "Պահված քարտեր չկան:"
+
+#: includes/main.php:896
+#| msgid "Online payment gateway"
+msgid "ONLINE PAYMENT GATEWAY"
+msgstr "Առցանց վճարման համակարգ"
+
+#: includes/main.php:700
+msgid "Password"
+msgstr "Գաղտնաբառ"
+
+#: includes/main.php:61 includes/main.php:570
+msgid "Pay via credit card"
+msgstr "Վճարել քարտով"
+
+#. Description of the plugin
+#| msgid ""
+#| "Pay with Evoca Bank payment system. Please note that the payment will be "
+#| "made in Armenian Dram."
+msgid ""
+"Pay with  Evocabank payment system. Please note that the payment will be "
+"made in Armenian Dram."
+msgstr ""
+"Վճարե՛ք/վճարումն իրականացրե՛ք Ձեր կրեդիտ/բանկային քարտով: Խնդրում ենք նկատի "
+"ունենալ՝ վճարումն իրականացվելու է հայկական դրամով:"
+
+#. Name of the plugin
+#| msgid "Payment Gateway for Evoca Bank"
+msgid "Payment gateway for Evocabank"
+msgstr "Payment gateway for Evocabank"
+
+#: includes/main.php:974
+msgid "Payment system"
+msgstr "Վճարային համակարգ"
+
+#: includes/main.php:1167 includes/main.php:1200 includes/main.php:1207
+msgid "Please try again later."
+msgstr "Խնդրում ենք փորձել ավելի ուշ:"
+
+#: includes/main.php:775 includes/main.php:798
+msgid "Please try again."
+msgstr "Խնդրում ենք կրկին փորձեք:"
+
+#: includes/main.php:548 includes/main.php:920
+msgid "Plugin language"
+msgstr "Հավելման վահանակի լեզու"
+
+#: includes/main.php:578
+msgid ""
+"Purchase by  credit card. Please, note that purchase is going to be made by "
+"Armenian drams. "
+msgstr ""
+"Վճարումն իրականացրե՛ք Ձեր բանկային քարտով: Խնդրում ենք նկատի ունենալ՝ "
+"վճարումն իրականացվելու է հայկական դրամով:"
+
+#: includes/main.php:62
+msgid ""
+"Purchase by credit card. Please, note that purchase is going to be made by "
+"Armenian drams. "
+msgstr ""
+"Վճարումն իրականացրե՛ք Ձեր բանկային քարտով: Խնդրում ենք նկատի ունենալ՝ "
+"վճարումն իրականացվելու է հայկական դրամով:"
+
+#: includes/main.php:64 includes/main.php:87 includes/main.php:667
+msgid "Purchase safely by using your saved credit card"
+msgstr "Վճարեք ապահով՝ օգտագործելով Ձեր պահպանված քարտը:"
+
+#: includes/main.php:647
+msgid "Save Card Admin"
+msgstr "Քարտի պահպանում"
+
+#: includes/main.php:664
+msgid "Save card description text"
+msgstr "Կցագրված բանկային քարտերի նկարագիր"
+
+#: wc-payment-gateway-for-evocabank.php:65
+msgid "Settings"
+msgstr "Կարգավորումներ"
+
+#: includes/main.php:595
+msgid "Success Order Status"
+msgstr "Հաջողված պատվերի կարգավիճակ"
+
+#: includes/main.php:959
+msgid "Terms & Conditions"
+msgstr "Պայմաններ և դրույթներ -ին"
+
+#: includes/main.php:621
+msgid "Test mode"
+msgstr "Թեստային տարբերակ"
+
+#: includes/main.php:633
+msgid "Test Password"
+msgstr "Թեստային գաղտնաբառ"
+
+#: includes/main.php:629
+msgid "Test User Name"
+msgstr "Թեստային օգտանուն"
+
+#: includes/main.php:609
+msgid ""
+"This action, if permitted by the bank, enables to purchase by multiple "
+"currencies"
+msgstr ""
+"Այս գործողությունը, բանկի կողմից թույլատրման դեպքում, կայքի միջոցով "
+"բազմարժույթ վճարումներ իրականացնելու հնարավորություն է ընձեռում:"
+
+#: includes/main.php:712
+msgid ""
+"This feature ensures that the contents of the shopping cart are available at "
+"the time of order registration if the site buyer decides to change the "
+"payment method."
+msgstr ""
+"Այս գործառույթը ակտիվացման ժամանակ կապահովի պատվերի գրանցման ժամանակ "
+"զամբյուղի պարունակությունը, եթե կայքի հաճախորդը որոշի փոփոխել վճարման "
+"տարբերակը։"
+
+#: includes/main.php:567
+msgid "Title"
+msgstr "Անվանում"
+
+#: includes/main.php:624
+msgid ""
+"To test the testing version login and password provided by the bank should "
+"be typed"
+msgstr ""
+"Թեստային տարբերակը փորձարկելու համար անհրաժեշտ է մուտքագրել բանկի կողմից "
+"տրամադրված օգտանունը և գաղտնաբառը։"
+
+#: includes/main.php:1059
+msgid "Token not valid"
+msgstr "Նույնականացման գաղտնաբառը սխալ է"
+
+#: includes/main.php:639
+msgid "Two-stage Payment"
+msgstr "Վճարման հաստատման գործառույթ"
+
+#: includes/main.php:642
+msgid ""
+"two-stage: when the payment amount is first blocked on the buyer’s account "
+"and then at the second stage is withdrawn from the account"
+msgstr ""
+"Երկու փուլով. երբ վճարման ենթակա գումարը առաջին փուլում սառեցվում է գնորդի "
+"հաշվին, իսկ երկրորդ փուլում՝ ելքագրվում վերջինիս հաշվից:"
+
+#: includes/main.php:580
+msgid "Type the description"
+msgstr "Մուտքագրել Նկարագրությունը"
+
+#: includes/main.php:702
+msgid "Type the password"
+msgstr "Մուտքագրել գաղտնաբառը"
+
+#: includes/main.php:656
+msgid "Type the save card checkbox text"
+msgstr "Մուտքագրել կցագրվող բանկային քարտի տեքստը"
+
+#: includes/main.php:665
+msgid "Type the save card description text"
+msgstr "Մուտքագրել կցագրված բանկային քարտերի նկարագիրը"
+
+#: includes/main.php:572
+msgid "Type the title"
+msgstr "Մուտքագրել Անվանումը"
+
+#: includes/main.php:674
+msgid "Type the use new card text"
+msgstr "Մուտքագրել նոր քարտի օգտագործման համար անվանում"
+
+#: includes/main.php:697
+msgid "Type the user name"
+msgstr "Մուտքագրել օգտանունը"
+
+#: includes/main.php:65 includes/main.php:88 includes/main.php:676
+msgid "Use a new credit card"
+msgstr "Օգտագործել նոր քարտ"
+
+#: includes/main.php:673
+msgid "Use new card text"
+msgstr "Նոր քարտի տեքստը"
+
+#: includes/main.php:705
+msgid "Useful functions"
+msgstr "Օգտակար գործառույթներ"
+
+#: includes/main.php:577
+msgid ""
+"User (website visitor) sees this description on order registry page in bank "
+"purchase option."
+msgstr ""
+"Այս նկարագրությունը օգտագործողը(կայքի հաճախորդը) տեսնում է պատվերի գրանցման "
+"էջում՝ բանկային վճարման տարբերակի ժամանակ։"
+
+#: includes/main.php:569
+msgid ""
+"User (website visitor) sees this title on order registry page as a title for "
+"purchase option."
+msgstr ""
+"Օգտագործողն (կայքի հաճախորդը) այս վերնագիրը տեսնում է պատվերի գրանցման "
+"էջում՝ որպես վճարման տարբերակի անվանում"
+
+#: includes/main.php:695
+msgid "User Name"
+msgstr "Իրական օգտանուն"
+
+#: includes/main.php:418
+msgid "You can Delete Cards"
+msgstr "Անհրաժեշտության դեպքում ցանկից կարող եք ջնջել քարտը/երը:"
+
+#: includes/main.php:1028
+#| msgid "you must fill token"
+msgid "You must fill token"
+msgstr ""
+"Խնդրում ենք անցնել նույնականացում։ Հարցերի դեպքում զանգահարել 033 779-779 "
+"հեռախոսահամարով։ "
+
+#: includes/main.php:417
+msgid "Your card list"
+msgstr "Ստորև ներկայացված է Ձեր կողմից կցագրված քարտերի ցանկը:"

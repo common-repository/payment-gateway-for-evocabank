@@ -1,0 +1,400 @@
+@font-face {
+    font-family: "Open Sans";
+    src: url("../fonts/OpenSans-Regular.ttf");
+}
+
+.wrap-evocabank  .form-inner-area label {
+    font-weight: 600;
+    color: #3B4B58;
+}
+
+
+.wrap-evocabank  .form-inner-area input {
+    width: 100%;
+    height: 56px;
+    padding-left: 30px;
+    margin-bottom: 15px;
+    border: 2px solid #ededed;
+    border-radius: 0.7rem;
+    -webkit-transition: 0.3s all ease-in-out;
+    -o-transition: 0.3s all ease-in-out;
+    transition: 0.3s all ease-in-out;
+}
+
+.wrap-evocabank  .form-inner-area input:focus {
+    -webkit-box-shadow: 0px 5px 35px 0px rgba(29, 190, 114, 0.17);
+    box-shadow: 0px 5px 35px 0px rgba(29, 190, 114, 0.17);
+    border: 2px solid #1dbe72;
+}
+
+.font-size-14 {
+    font-size: 14px;
+}
+
+.wrap-evocabank  .step-inner-content p {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 30px;
+}
+
+.wrap-evocabank  .text-label-step {
+    font-size: 37px;
+    color: #3B4B58;
+    font-weight: 700;
+    padding: 0px 0px 20px 0px;
+}
+
+.wrap-evocabank  .verification-label {
+    font-size: 24px;
+    color: #3B4B58;
+    font-weight: 700;
+    padding: 15px 0px 0px 0px;
+}
+
+.wrap-evocabank  .budget-area {
+    margin-bottom: 25px;
+}
+
+.wrap-evocabank  .budget-area p {
+    color: #5f5f63;
+    font-size: 23px;
+    font-weight: 700;
+    padding-bottom: 10px;
+}
+
+.wrap-evocabank  .budget-area select {
+    width: 100%;
+    height: 56px;
+    padding-left: 30px;
+    margin-bottom: 15px;
+    border: 2px solid #ededed;
+    border-radius: 0.7rem;
+    -webkit-transition: 0.3s all ease-in-out;
+    -o-transition: 0.3s all ease-in-out;
+    transition: 0.3s all ease-in-out;
+}
+
+.wrap-evocabank  .budget-area .opti-list ul {
+    margin-top: 10px;
+}
+
+.wrap-evocabank  .budget-area .opti-list li {
+    position: relative;
+    display: inline-block;
+    margin-right: 25px;
+    font-size: 19px;
+    color: #5f5f63;
+    padding: 20px 20px 20px 60px;
+    width: 33%;
+    font-weight: 600;
+    cursor: pointer;
+    border: 2px solid #ededed;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.wrap-evocabank  .budget-area .opti-list li:last-child {
+    margin-right: 0;
+}
+
+.wrap-evocabank  .budget-area .opti-list li input {
+    opacity: 0;
+    position: absolute;
+    left: 15px;
+    top: 20px;
+    width: 28px;
+    height: 28px;
+}
+
+.wrap-evocabank  .budget-area .opti-list li:after {
+    content: "";
+    position: absolute;
+    height: 28px;
+    left: 15px;
+    top: 20px;
+    width: 28px;
+    border: 2px solid #ededed;
+}
+
+.wrap-evocabank  .budget-area .opti-list li:before {
+    content: "";
+    top: 28px;
+    left: 24px;
+    font-size: 12px;
+    line-height: 1;
+    font-weight: 900;
+    display: none;
+    color: #fff;
+    z-index: 1;
+    font-family: "Font Awesome 5 Free";
+    position: absolute;
+}
+
+.wrap-evocabank  .budget-area .opti-list li.active {
+    border: 2px solid #6b59d3;
+    -webkit-box-shadow: 0 0 15px 5px #6b58d317;
+    box-shadow: 0 0 15px 5px #6b58d317;
+}
+
+.wrap-evocabank  .budget-area .opti-list li.active:after {
+    border: 2px solid #6b59d3;
+    background-color: #6b59d3;
+}
+
+.wrap-evocabank  .budget-area .opti-list li.active:before {
+    display: block;
+}
+
+.wrap-evocabank  .text-center {
+    text-align: center;
+}
+
+.wrap-evocabank  .budget-area select:focus {
+    border-color: #379199;
+    color: #379199;
+    box-shadow: 0 0 0 1px #379199;
+}
+
+
+.wrap-evocabank  {
+    font-family: "Open Sans", Arial, sans-serif;
+    font-weight: normal;
+    font-style: normal;
+}
+
+.wrap-content-hkd-400px {
+    /*width: 400px;*/
+    width: 341px;
+    display: inline-block;
+    padding-left: 50px;
+    margin-bottom: 20px;
+}
+
+.wrap-content-hkd-400px h2 {
+    font-size: 30px;
+}
+
+.wrap-content-info {
+    padding-left: 50px;
+}
+
+.wrap-content-hkd-400px img {
+    width: 100%;
+}
+
+.wrap-content-hkd textarea {
+    width: 400px !important;
+}
+
+.wrap-evocabank  .icon {
+    position: absolute;
+    left: 51px;
+    margin-top: 5px;
+}
+
+.wrap-evocabank  .d-flex {
+    display: flex !important;
+}
+
+.wrap-evocabank  .mt-10 {
+    margin-top: 10px;
+}
+
+.wrap-evocabank  .mt-40 {
+    margin-top: 40px;
+}
+
+.wrap-evocabank  .mb-10 {
+    margin-bottom: 10px;
+}
+
+.wrap-evocabank  .plugin-terms {
+    margin-bottom: 50px;
+}
+
+.wrap-evocabank  .w-100 {
+    width: 100%;
+}
+
+.pl-10 {
+    padding-left: 10px;
+}
+
+.wrap-evocabank  .input-label-verification {
+    display: block;
+    padding-bottom: 3px
+}
+
+#pluginMainWrap {
+    width: 45%;
+    display: inline-block;
+    vertical-align: text-bottom;
+}
+
+#paymentInfoBlock {
+    width: 29%;
+    display: inline-block;
+    position: absolute;
+    padding-top: 75px;
+}
+
+.wrap-evocabank  .phone-icon{
+    color:#6400dc !important;
+}
+.wrap-evocabank  .mail-icon{
+    color:#6400dc !important;
+}
+
+.wrap-evocabank  .phone-icon-2{
+    color: #4ec3cc;
+}
+
+.wrap-evocabank  .mail-icon-2{
+    color: #4ec3cc;
+}
+
+.wrap-evocabank  .wrap-content-info {
+    font-size: 16px;
+}
+
+.wrap-evocabank  .wrap-content-info p {
+    font-size: 16px !important;
+}
+
+.wrap-evocabank  .wrap-content-info a, .wrap-content-info a:hover, .wrap-content-info a:active, .wrap-content-info a:focus {
+    text-decoration: none;
+    color: #444;
+}
+
+.wrap-evocabank  input[type=text]:focus, input[type=password]:focus, textarea:focus {
+    -webkit-box-shadow: 0px 5px 35px 0px rgba(29, 190, 114, 0.17);
+    box-shadow: 0px 5px 35px 0px rgba(29, 190, 114, 0.17);
+    border: 2px solid #1dbe72;
+}
+.wrap-evocabank  label[for=woocommerce_hkd_evocabank_useful_functions],
+.wrap-evocabank  label[for=woocommerce_hkd_evocabank_live_settings],
+.wrap-evocabank  label[for=woocommerce_hkd_evocabank_links] {
+    color: #379199;
+    border-bottom: 2px solid #1dbe72;
+    line-height: 1.7 !important;
+}
+
+#pluginMainWrap h4 {
+    font-size: 15px;
+    color: #3e3e3e;
+}
+
+@media only screen and (max-width: 1600px) {
+    .wrap-evocabank  {
+        right: 245px;
+    }
+
+}
+
+@media only screen and (max-width: 1400px) {
+    .wrap-evocabank  {
+        right: 170px;
+    }
+
+}
+
+@media only screen and (max-width: 1300px) {
+    .wrap-evocabank  {
+        right: 110px;
+    }
+
+}
+
+@media only screen and (max-width: 1200px) {
+    .wrap-evocabank  {
+        right: 50px;
+    }
+
+}
+
+
+.is-invalid ~ .invalid-feedback, .is-invalid ~ .invalid-tooltip, .was-validated :invalid ~ .invalid-feedback, .was-validated :invalid ~ .invalid-tooltip {
+    display: block
+}
+
+.form-control.is-invalid, .was-validated .form-control:invalid {
+    border-color: #dc3545;
+    padding-right: calc(1.5em + .75rem) !important;
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' fill='none' stroke='%23dc3545' viewBox='0 0 12 12'%3e%3ccircle cx='6' cy='6' r='4.5'/%3e%3cpath stroke-linejoin='round' d='M5.8 3.6h.4L6 6.5z'/%3e%3ccircle cx='6' cy='8.2' r='.6' fill='%23dc3545' stroke='none'/%3e%3c/svg%3e");
+    background-repeat: no-repeat;
+    background-position: right calc(.375em + .1875rem) center;
+    background-size: calc(.75em + .375rem) calc(.75em + .375rem)
+}
+
+.form-control.is-invalid:focus, .was-validated .form-control:invalid:focus {
+    border-color: #dc3545;
+    box-shadow: 0 0 0 .2rem rgba(220, 53, 69, .25)
+}
+
+.was-validated select.form-control:invalid, select.form-control.is-invalid {
+    padding-right: 3rem !important;
+    background-position: right 1.5rem center
+}
+
+.was-validated textarea.form-control:invalid, textarea.form-control.is-invalid {
+    padding-right: calc(1.5em + .75rem);
+    background-position: top calc(.375em + .1875rem) right calc(.375em + .1875rem)
+}
+
+.custom-select.is-invalid, .was-validated .custom-select:invalid {
+    border-color: #dc3545;
+    padding-right: calc(.75em + 2.3125rem) !important;
+    background: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='4' height='5' viewBox='0 0 4 5'%3e%3cpath fill='%23343a40' d='M2 0L0 2h4zm0 5L0 3h4z'/%3e%3c/svg%3e") right .75rem center/8px 10px no-repeat, #fff url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' fill='none' stroke='%23dc3545' viewBox='0 0 12 12'%3e%3ccircle cx='6' cy='6' r='4.5'/%3e%3cpath stroke-linejoin='round' d='M5.8 3.6h.4L6 6.5z'/%3e%3ccircle cx='6' cy='8.2' r='.6' fill='%23dc3545' stroke='none'/%3e%3c/svg%3e") center right 1.75rem/calc(.75em + .375rem) calc(.75em + .375rem) no-repeat
+}
+
+.custom-select.is-invalid:focus, .was-validated .custom-select:invalid:focus {
+    border-color: #dc3545;
+    box-shadow: 0 0 0 .2rem rgba(220, 53, 69, .25)
+}
+
+.form-check-input.is-invalid ~ .form-check-label, .was-validated .form-check-input:invalid ~ .form-check-label {
+    color: #dc3545
+}
+
+.form-check-input.is-invalid ~ .invalid-feedback, .form-check-input.is-invalid ~ .invalid-tooltip, .was-validated .form-check-input:invalid ~ .invalid-feedback, .was-validated .form-check-input:invalid ~ .invalid-tooltip {
+    display: block
+}
+
+.custom-control-input.is-invalid ~ .custom-control-label, .was-validated .custom-control-input:invalid ~ .custom-control-label {
+    color: #dc3545
+}
+
+.custom-control-input.is-invalid ~ .custom-control-label::before, .was-validated .custom-control-input:invalid ~ .custom-control-label::before {
+    border-color: #dc3545
+}
+
+.custom-control-input.is-invalid:checked ~ .custom-control-label::before, .was-validated .custom-control-input:invalid:checked ~ .custom-control-label::before {
+    border-color: #e4606d;
+    background-color: #e4606d
+}
+
+.custom-control-input.is-invalid:focus ~ .custom-control-label::before, .was-validated .custom-control-input:invalid:focus ~ .custom-control-label::before {
+    box-shadow: 0 0 0 .2rem rgba(220, 53, 69, .25)
+}
+
+.custom-control-input.is-invalid:focus:not(:checked) ~ .custom-control-label::before, .was-validated .custom-control-input:invalid:focus:not(:checked) ~ .custom-control-label::before {
+    border-color: #dc3545
+}
+
+.custom-file-input.is-invalid ~ .custom-file-label, .was-validated .custom-file-input:invalid ~ .custom-file-label {
+    border-color: #dc3545
+}
+
+.custom-file-input.is-invalid:focus ~ .custom-file-label, .was-validated .custom-file-input:invalid:focus ~ .custom-file-label {
+    border-color: #dc3545;
+    box-shadow: 0 0 0 .2rem rgba(220, 53, 69, .25)
+}
+
+.tiptip_content_changed_style{
+    max-width: 300px !important;
+}
+
+
+
+
